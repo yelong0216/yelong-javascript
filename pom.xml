@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<name>yelong-javascript</name>
 	<url>https://github.com/yelong0216/yelong-javascript.git</url>
-	<description>发送邮件的简单实现</description>
+	<description>js对象管理，可以生成js代码</description>
 	<licenses>
 		<license>
 			<name>Apache License, Version 2.0</name>
